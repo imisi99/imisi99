@@ -13,7 +13,7 @@
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=imisi99&style=flat-square&label=Profile+Views&color=0891b2" />
 </a>
 
-<h3 align="left">👉Connect with me:</h3>
+
 <!-- <p align="left">
 <!-- <a style="margin: 0 10px" href="https://emmy-akintz.netlify.app/" target="blank" title="Portfolio"><img align="center" src="https://avatars.githubusercontent.com/u/115672480?v=4" alt="portfolio" height="40" width="40" /></a>
 <a style="margin: 0 10px" href="https://www.linkedin.com/in/ayomide-akintan-3a10a028b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
