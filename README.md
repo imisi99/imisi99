@@ -25,8 +25,8 @@
 
 <h3 align="left">✨Languages and Tools:</h3>
 <p align="left">
-    <img src="HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
+<!--     <img src="HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="CSS.svg" alt="CSS" width="40" height="40"/>&nbsp; -->
 <!--     <img src="JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
     <img src="MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
 <!--     <img src="assets/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp; -->
-    <img src="CPP.svg" alt="C++" width="40" height="40"/>&nbsp;
+<!--     <img src="CPP.svg" alt="C++" width="40" height="40"/>&nbsp; -->
     <img src="VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
     <img src="Git.svg" alt="Git" width="40" height="40"/>&nbsp;
@@ -50,6 +50,7 @@
     <img src="Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="FastAPI.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="Linux-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="Flask-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ay7ot&show_icons=true&locale=en&layout=compact" alt="ay7ot" /></p> -->
