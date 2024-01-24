@@ -46,7 +46,7 @@
 <!--     <img src="Netlify-Dark.svg" alt="Netlify" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp; -->
-<!--     <img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp; --> -->
+<!--     <img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp; -->
     <img src="Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="FastAPI.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="Linux-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
