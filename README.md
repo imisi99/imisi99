@@ -9,9 +9,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/imisi99/](https://github.com/imisi99/)
 
 <br>
-<a href="https://github.com/imisi99/">
-   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=imisi99&style=flat-square&label=Profile+Views&color=0891b2" />
-</a>
+<!-- <a href="https://github.com/imisi99/"> -->
+<!--    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=imisi99&style=flat-square&label=Profile+Views&color=0891b2" /> -->
+<!-- </a> -->
 
 
 <!-- <p align="left">
