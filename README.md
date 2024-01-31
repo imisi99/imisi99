@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/emmy_akintz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmy_akintz" height="30" width="40" /></a>
 <a href="https://medium.com/@emzyakints2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emzyakints2005" height="30" width="40" /></a>
 <a href="https://web.facebook.com/ayomide.akintan.357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayomide.akintan.357" height="30" width="40" /></a>
-</p> --> -->
+</p> -->
 
 <h3 align="left">✨Languages and Tools:</h3>
 <p align="left">
