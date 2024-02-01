@@ -39,7 +39,7 @@
     <img src="MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
 <!--     <img src="assets/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>&nbsp; -->
     <img src="PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-   <img src="CPP.svg" alt="C++" width="40" height="40"/>&nbsp; 
+<!--    <img src="CPP.svg" alt="C++" width="40" height="40"/>&nbsp;  -->
     <img src="VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
     <img src="Git.svg" alt="Git" width="40" height="40"/>&nbsp;
