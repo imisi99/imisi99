@@ -37,8 +37,8 @@
     <img src="assets/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp; -->
     <img src="MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-<!--     <img src="assets/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp; -->
+<!--     <img src="assets/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>&nbsp; -->
+    <img src="assets/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <!--     <img src="CPP.svg" alt="C++" width="40" height="40"/>&nbsp; -->
     <img src="VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
