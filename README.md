@@ -2,7 +2,7 @@
 <h3 align="center">I love to build fully functioning api's and i'm interested in  Machine Learning.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-- 🔭 I’m currently working on a [TodoAPI](https://github.com/imisi99/Todoapi)
+- 🔭 I’m currently working on a [Flask-Pizza-api](https://github.com/imisi99/Flask-Pizza-api)
 - 🌱 I’m currently learning Flask and Fastapi
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<isongrichard234@gmail.com>**
