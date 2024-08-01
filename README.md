@@ -2,11 +2,10 @@
 <h3 align="center">I love to build fully functioning api's and i'm interested in Machine Learning.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-- 🔭 I’m currently working on Automation [Pygame project](https://github.com/imisi99/Boring-Stuff)
-- 🌱 I’m currently learning Automation and Statistics 
+- 🔭 I’m currently working on an [API](https://github.com/imisi99/Estate-api)
+- 🌱 I’m currently learning Deep Learning and Statistics 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<isongrichard234@gmail.com>**
-- 👨‍💻 All of my projects are available at [https://github.com/imisi99/](https://github.com/imisi99/)
 
 <br>
 <!-- <a href="https://github.com/imisi99/"> -->
