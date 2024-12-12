@@ -2,9 +2,9 @@
 <h3 align="center">I am a Machine Learning Engineer.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-Learn more about me here (http://www.sodoria.xyz/)[here]
-I’m looking to collaborate on open source projects
-How to reach me: **<isongrichard234@gmail.com>**
+- Learn more about me [here](http://www.sodoria.xyz/)
+- I’m looking to collaborate on open source projects
+- How to reach me: **<isongrichard234@gmail.com>**
 
 <br>
 
