@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Imisioluwa 👋</h1>
-<h3 align="center">I love to build fully functioning api's and i'm interested in Machine Learning.</h3>
+<h3 align="center">I am a Machine Learning Engineer.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 - 🔭 I’m currently working on an [API](https://github.com/imisi99/Estate-api)
