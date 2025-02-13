@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Imisioluwa 👋</h1>
-<h3 align="center">I am a Machine Learning Engineer.</h3>
+<h3 align="center">I am a CS major @ Landmark University.</h3>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 - Learn more about me [here](http://www.sodoria.xyz/)
